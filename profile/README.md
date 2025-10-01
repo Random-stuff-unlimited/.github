@@ -1,6 +1,7 @@
 ## Hi there 👋[
-[img](https://preview.redd.it/gimme-yo-funny-haha-edgerunners-images-or-just-normal-v0-pmjh5juq7qid1.jpeg?width=640&crop=smart&auto=webp&s=94ea82a93619ffed5ed59013096e3e73eea99a7e)
+<img width="640" height="652" alt="image" src="https://github.com/user-attachments/assets/b6330a0e-60e3-4bdf-8078-36c6cb33f8a2" />
 <!--
+
 
 **Here are some ideas to get you started:**
 
